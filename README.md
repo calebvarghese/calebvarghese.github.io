@@ -3,10 +3,10 @@
 Welcome to my github page. Here are the links of my stood up projects. I will be adding to this list as I get certain projects and repos to a desirable state. 
 
 ## Projects
-- Resume site 
+- Resume site: Simple HTML site, that will be turned into a react web app eventually
     - [Github Repo](https://github.com/calebvarghese/resume/)
     - [Hosted Page](https://calebvarghese.github.io/resume/)
-- K8-Skeleton
+- K8-Skeleton: Template for future k8s deployments
     - [Github Page](https://github.com/calebvarghese/k8-skeleton)
 
 ### Contact Me
