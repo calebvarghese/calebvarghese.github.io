@@ -4,7 +4,7 @@ Welcome to my github page. Here are the links of my stood up projects. I will be
 
 ## Projects
 - Resume site 
-    - [Gitlab Repo](https://github.com/calebvarghese/calebvarghese.github.io/tree/main/resume)
+    - [Gitlab Repo](https://github.com/calebvarghese/resume/)
     - [Hosted Page](https://calebvarghese.github.io/resume/)
 
 ### Contact Me
