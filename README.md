@@ -9,8 +9,6 @@ Here are the links of my stood up personal projects. I will be adding to this li
     - [Hosted Page](https://calebvarghese.github.io/resume/)
 - **K8-Skeleton**s: Template for future k8s deployments
     - [Github Page](https://github.com/calebvarghese/k8-skeleton)
-- **Mouse Move**: Python script that moves mouse up and down for a specified amount of time
-    - [Github Page](https://github.com/calebvarghese/AFKmouseMover)
 - **Cat API**: Python sciript that grabs cat facts using a free APi
     - [Github Page](https://github.com/calebvarghese/catAPI)
 
